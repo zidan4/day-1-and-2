@@ -27,7 +27,7 @@ print('Married: ', is_married)
 print('Skills: ', skills)
 print('Person information: ', person_info)
 print('Person information type: ', type(person_info))
-
+print('Nested city: ', person_info['city'])
 
 # Declaring multiple variables in one line
 
